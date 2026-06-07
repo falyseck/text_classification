@@ -28,7 +28,11 @@ All-zeros baseline: **HL = 0.1976** · Best model improvement: **67%**
 ## Repository Structure
 
 ```
-├── text_classification.ipynb   # Main notebook — complete pipeline
+
+└── notebook/
+    ├── text_classification.ipynb   # The notebook on GitHub has outputs cleared for clean rendering.
+A fully executed version with all outputs and plots is available in the same folder as text_classification_outputs.pdf
+    ├── text_classification._outputs.pdf   # Notebook with all the outputs 
 ├── README.md                   # This file
 ├── requirements.txt            # Python dependencies
 └── outputs/
