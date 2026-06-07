@@ -33,7 +33,8 @@ All-zeros baseline: **HL = 0.1976** · Best model improvement: **67%**
 ├── requirements.txt            # Python dependencies
 └── outputs/
     ├── predictions.csv         # Test set predictions (generated on run)
-  
+|__ AUTHORS.md
+|__ Contributions.md
 ```
 
 ---
