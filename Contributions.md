@@ -67,13 +67,3 @@
 
 ---
 
-## Declaration
-
-We confirm that the work submitted is our own, that all sources have been properly cited, and that each member's contributions are accurately represented above.
-
-| Member | Signature | Date |
-|---|---|---|
-| Faly | | |
-| Kelvin | | |
-| Richard | | |
-| Henriette | | |
