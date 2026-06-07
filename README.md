@@ -37,7 +37,6 @@ A fully executed version with all outputs and plots is available in the same fol
 ├── requirements.txt            # Python dependencies
 └── outputs/
     ├── predictions.csv         # Test set predictions (generated on run)
-|__ AUTHORS.md
 |__ Contributions.md
 ```
 
